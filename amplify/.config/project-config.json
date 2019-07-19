@@ -1,0 +1,17 @@
+{
+    "projectName": "pulse-app",
+    "version": "2.0",
+    "frontend": "javascript",
+    "javascript": {
+        "framework": "ionic",
+        "config": {
+            "SourceDir": "src",
+            "DistributionDir": "www",
+            "BuildCommand": "ionic build",
+            "StartCommand": "ionic serve"
+        }
+    },
+    "providers": [
+        "awscloudformation"
+    ]
+}

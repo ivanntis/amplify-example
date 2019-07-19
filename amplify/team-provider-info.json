@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "pulse-app-dev-20190718214526-authRole",
+            "UnauthRoleArn": "arn:aws:iam::635472762977:role/pulse-app-dev-20190718214526-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::635472762977:role/pulse-app-dev-20190718214526-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "pulse-app-dev-20190718214526-deployment",
+            "UnauthRoleName": "pulse-app-dev-20190718214526-unauthRole",
+            "StackName": "pulse-app-dev-20190718214526",
+            "StackId": "arn:aws:cloudformation:us-east-1:635472762977:stack/pulse-app-dev-20190718214526/44622d40-a9cf-11e9-aaf5-0a437bda7b86"
+        },
+        "categories": {
+            "auth": {
+                "pulseappc8f2eec8": {
+                    "googleAppIdUserPool": "979158878354-vnh69kvfqd2960s60bkhm5ork3b2109e.apps.googleusercontent.com",
+                    "googleAppSecretUserPool": "KyZemc9GTLGdy4Hs4KvQwS0u",
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Google\",\"client_id\":\"979158878354-vnh69kvfqd2960s60bkhm5ork3b2109e.apps.googleusercontent.com\",\"client_secret\":\"KyZemc9GTLGdy4Hs4KvQwS0u\"}]"
+                }
+            }
+        }
+    }
+}
